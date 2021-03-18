@@ -1,0 +1,12 @@
+{
+  "name": "node-fake-database",
+  "version": "1.0.2",
+  "description": "File based database",
+  "main": "main.js",
+  "scripts": {
+    "start": "echo Please read ReadMe.md"
+  },
+  "keywords": ["file", "fs", "database", "nodejs"],
+  "author": "mabrur-h",
+  "license": "MIT"
+}
